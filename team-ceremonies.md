@@ -14,6 +14,8 @@ An important prerequisite for any retrospective is that everyone can be seen and
 
 We use the same structure for the retro regardless of whether it is collocated or virtual \(or a bit of both\). Work on a task together -&gt; Ask everyone to answer a question -&gt; Affinity Group answers -&gt; Prioritise actions / next steps. This allows everyone to have a voice and an influence on the outcome of the retrospective.
 
+Sometimes the overlap of time zones means there isn’t a part of the working day where you are all in core business hours.  To make effective use of the time use a Trello board to capture topics in advance, maybe even do the dot voting in advance so that you can start the retro getting into the issues that are important allowing the time to be used more wisely.
+
 ### Showcase / Show & Tell
 
 Duration: 15 minutes

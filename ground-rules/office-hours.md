@@ -4,9 +4,11 @@ Be respectful of different time zones and try to schedule calls that are inside 
 
 ![](../.gitbook/assets/globe_01.png)
 
-Publicise what the team’s collectively overlapping core hours are. Don’t forget about daylight savings and different public holidays and working weeks.
+**‌**Publicise what the team's collectively overlapping core hours are. Don't forget about daylight saving different public holidays and working weeks.  
 
-Maintain core hours for your time zone, so at least people will know when they can expect you to be available.
+Use this time wisely. Things that you need to do as a group do in the overlapping time, things you can do without the group do when it isn't. Oh, and try and avoid booking meetings with teammates that are outside their core hours.  
 
-Expecting people to shift their working hours is possible, but will often lead to disappointment. People have lives outside of work, you know, and important things like friends and family can be hard to rearrange. However, if you can nudge your day, then have a go, as increasing the overlap of timezones adds to productivity. Just don’t expect it to happen.
+Maintain core hours for your timezone, so at least people will know when they can expect you to be available. Unfortunately, due to time zones, not everyone can be present in core hours, so if you have an important discussion with a stakeholder or client, then record the conversation on zoom. That way, all team members can gain context when they get into work.  
+  
+
 

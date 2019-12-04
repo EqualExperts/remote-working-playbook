@@ -26,4 +26,5 @@ _Crappy sound and video is a killer_
 * **Communicate clearly.** If you speak at 300 words per minute or are soft-spoken, be aware, and take extra steps to compensate.
 * **Appreciate the Differences.** Cultural differences affect the way people act and interpret the actions of others. Even if you are speaking a common language, there will be words that you use that don’t have the universal meaning you think they do. Holidays will have different levels of significance, so maybe don’t plan for people to be available for Thanksgiving or Diwali, even if you are working. Step back, reflect and appreciate the diversity.
 * **Human Interactions.** Leave some space for some social interaction at the start of meetings. Dial into meetings 5 minutes early and see what essential information surfaces just through normal human chit-chat.
+* **Record the meeting.** Record the Zoom for those not able to attend due to time zones. If you are using a whiteboard, go electronic, so everyone watching the video has the full context.
 
