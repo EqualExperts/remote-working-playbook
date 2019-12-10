@@ -7,7 +7,6 @@
   * [Trust](introduction/trust.md)
   * [Common Ground](introduction/common-ground.md)
   * [Agile Law](introduction/colocation-is-better.md)
-* [Remote-friendly vs. Remote-first](remote-friendly-vs.-remote-first.md)
 * [Advantages](advantages.md)
 * [Team Charter](ground-rules/README.md)
   * [Working day Etiquette.](ground-rules/working-day-etiquette..md)
