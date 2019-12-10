@@ -18,3 +18,5 @@ The best part of Slack as a watercooler is that everyone, regardless of location
 
 Slack is so ubiquitous that it is tempting to use it for everything! We have found that using Slack to record information which has a long shelf-life \(capturing decisions, managing updates to important design artefacts, onboarding information for new team members\) does have its drawbacks. Remember that the free version of Slack has a messaging limit and that the essential doc you shared last month may disappear in your channel message history. Some teams use plug-ins or virtual team assistants like [https://stratejos.ai/](https://stratejos.ai/) to help them manage Slack and integration with other tools.
 
+Like any written content avoid ambiguity at all costs.  What someone else reads and what you mean can all too often be misaligned.  Take extra steps to make your communications crystal clear, working hard to avoid ambiguity. If it feels like you are writing an explanation that a young child would understand, then you are on the right track.
+
