@@ -2,23 +2,23 @@
 
 ## Links to some great Playbooks & Tools
 
-[https://www.pagerduty.com/blog/what-is-chatops/](https://www.pagerduty.com/blog/what-is-chatops/)
+{% embed url="https://www.pagerduty.com/blog/what-is-chatops/" %}
 
-[https://hanno.co/playbooks/remote/](https://hanno.co/playbooks/remote/)
+{% embed url="https://hanno.co/playbooks/remote/" %}
 
-[https://zapier.com/learn/remote-work/](https://zapier.com/learn/remote-work/)
+{% embed url="https://zapier.com/learn/remote-work/" %}
 
-[https://services.google.com/fh/files/blogs/distributedworkplaybooks.pdf](https://services.google.com/fh/files/blogs/distributedworkplaybooks.pdf)
+![](https://services.google.com/fh/files/blogs/distributedworkplaybooks.pdf)
 
-[https://medium.com/startup-grind/my-remote-work-playbook-9b6c4ab56f16](https://medium.com/startup-grind/my-remote-work-playbook-9b6c4ab56f16)
+{% embed url="https://medium.com/startup-grind/my-remote-work-playbook-9b6c4ab56f16" %}
 
-[https://medium.com/startup-grind/my-remote-work-playbook-9b6c4ab56f16](https://medium.com/startup-grind/my-remote-work-playbook-9b6c4ab56f16)
+{% embed url="https://www.pagerduty.com/blog/remote-work-ops/" %}
 
-[https://www.pagerduty.com/blog/remote-work-ops/](https://www.pagerduty.com/blog/remote-work-ops/)
+{% embed url="https://www.amazon.co.uk/Remote-Required-David-Heinemeier-Hansson-ebook/dp/B00CZ7OC46/" %}
 
-[https://www.amazon.co.uk/Remote-Required-David-Heinemeier-Hansson-ebook/dp/B00CZ7OC46/](https://www.amazon.co.uk/Remote-Required-David-Heinemeier-Hansson-ebook/dp/B00CZ7OC46/)
+{% embed url="http://blog.idonethis.com/tools-for-managing-time-zone-differences/" %}
 
-[http://blog.idonethis.com/tools-for-managing-time-zone-differences/](http://blog.idonethis.com/tools-for-managing-time-zone-differences/)
+{% embed url="http://engineering.pivotal.io/post/pair-programming-in-a-distributed-team/" %}
 
-[http://engineering.pivotal.io/post/pair-programming-in-a-distributed-team/](http://engineering.pivotal.io/post/pair-programming-in-a-distributed-team/)
+{% embed url="https://weworkremotely.com/remote-work-hiring-guide" %}
 
