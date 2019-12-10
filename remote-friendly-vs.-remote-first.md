@@ -8,7 +8,7 @@ There is a real difference between operating as remote-friendly vs. remote-first
 
 ![](https://lh3.googleusercontent.com/zvJUUUqG5EXRksT6VwC3zqD9Qy_7YzDH9Vof9KF_taJkSJe9kZ5D86UAozobuIv-_xYcLTYC8M7B4PzrciRDpqZ1V3D7ju-3sYs3SytozlEBnKX5yMpsR4Dbvk5OHiP5k6FSCBnL)
 
-_Source amended from: https://doist.com/blog/remote-career-advice/_  
+_Source amended from:_ https://doist.com/blog/remote-career-advice/  
   
 
 
