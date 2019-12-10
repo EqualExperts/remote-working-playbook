@@ -6,11 +6,11 @@ At Equal Experts, we often work as co-located teams; however, this isn’t alway
 
 The ideas set out below aim to create conditions that allow for teams to be **highly collaborative in a remote setting**. They explain **how to increase the connection strength between each node** to achieve a point where there is clear **common ground** across the team that isn’t dependent on physical \(or temporal\) proximity.
 
-From this
+From this \(remote-friendly\) 
 
 ![](../.gitbook/assets/1.png)
 
-To this …
+To this … \(remote-first\)
 
 ![](../.gitbook/assets/2.png)
 
