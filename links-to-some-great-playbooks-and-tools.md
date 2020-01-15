@@ -20,6 +20,8 @@
 
 {% embed url="https://weworkremotely.com/remote-work-hiring-guide" %}
 
+{% embed url="https://www.equalexperts.com/blog/our-thinking/optimising-slack/" %}
+
 ![](https://services.google.com/fh/files/blogs/distributedworkplaybooks.pdf)
 
 {% embed url="https://www.amazon.co.uk/Remote-Required-David-Heinemeier-Hansson-ebook/dp/B00CZ7OC46/" %}
