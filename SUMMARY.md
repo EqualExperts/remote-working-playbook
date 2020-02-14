@@ -12,7 +12,7 @@
   * [Working day Etiquette.](ground-rules/working-day-etiquette..md)
   * [Office Hours](ground-rules/office-hours.md)
   * [Video Calls](ground-rules/video-calls.md)
-  * [Instance Messaging](ground-rules/slack.md)
+  * [Instant Messaging](ground-rules/slack.md)
 * [Team Ceremonies](team-ceremonies.md)
 * [Remote Pairing](remote-pairing.md)
 * [Tools](tools.md)
