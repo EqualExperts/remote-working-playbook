@@ -13,6 +13,7 @@
   * [Office Hours](ground-rules/office-hours.md)
   * [Video Calls](ground-rules/video-calls.md)
   * [Instant Messaging](ground-rules/slack.md)
+  * [Remote Documentation](ground-rules/remote-documentation.md)
 * [Team Ceremonies](team-ceremonies.md)
 * [Remote Pairing](remote-pairing.md)
 * [Tools](tools.md)
