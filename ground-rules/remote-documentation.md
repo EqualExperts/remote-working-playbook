@@ -1,6 +1,6 @@
 # Remote Documentation
 
-As with [pair programming](https://stackify.com/pair-programming-advantages/), being able to pair and collaborate on documents brings many of the same benefits. In the remote setting, this means using a tool that allows simultaneous and frictionless editing rather than authoring a document, sending to some to review and make corrections then sending it back \(rinse and repeat\).  Some of the tools have limitations on the features, however, this gap is fast closing and is usually related to personal preference rather than missing features.
+As with [pair programming](https://stackify.com/pair-programming-advantages/), being able to **pair** and **collaborate** on documents brings many of the same benefits. In the remote setting, this means using a tool that allows **simultaneous and frictionless editing** rather than authoring a document, sending to some to review and make corrections then sending it back \(rinse and repeat\).  Some of the tools have limitations on the features, however, this gap is fast closing and is usually related to personal preference rather than missing features.
 
 ### Google Docs 
 
