@@ -1,6 +1,6 @@
-# Slack
+# Instance Messaging
 
-## Remote Teams and Slack
+## Remote Teams and ~~Instance Messaging~~ Slack
 
 Teams that work remotely love using a real-time collaboration tool like Slack. 💛 Slack is so useful that it can be used to help a remote team manage many aspects of their process and work in real time:
 
