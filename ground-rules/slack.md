@@ -24,7 +24,7 @@ Like any written content avoid ambiguity at all costs.  What someone else reads 
 
 ## **Slack Principles**
 
-The following principles were used when writing this slack usage guide:
+The following principles were used when writing Equal Experts [slack usage guide](https://github.com/EqualExperts/slack-guide/blob/master/README.md):
 
 * **Give everyone the bigger picture** by making information and conversations public
   * Ensure people can widen their context
@@ -52,4 +52,6 @@ The following principles were used when writing this slack usage guide:
 * **Search** - Before asking a question in a channel, check to see if the question has already been answered. Type a word or phrase in the search box to start looking. If you can’t find what you’re looking for, try search modifiers to narrow your search even further.
 * **Gif’s and Emoji’s** - these can be fun and a great way to lighten the mood, however, given images can sometimes be inappropriate or distracting, especially on a client site, learn the ways to minimise them. 
 * **@channel @here** - people are less likely to mute or leave the channel due to being spammed with notifications. Use these wisely and sparingly!
+
+
 
