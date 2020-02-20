@@ -1,5 +1,5 @@
 ---
-description: The subtle art of working with remote teams
+description: A guide to the subtle art of working with remote teams
 ---
 
 # R-ee-mote
