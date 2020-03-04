@@ -4,5 +4,5 @@ description: A guide to the subtle art of working with remote teams
 
 # R-ee-mote
 
-![](.gitbook/assets/remote-working-6.jpg)
+![My kind of remote!](.gitbook/assets/remote-working-lsland.png)
 
