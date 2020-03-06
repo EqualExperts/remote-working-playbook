@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Remote](README.md)
+* [Remote-working](README.md)
 * [Introduction](introduction/README.md)
   * [Context](introduction/context.md)
   * [Interactions](introduction/interactions.md)
