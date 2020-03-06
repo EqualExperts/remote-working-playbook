@@ -1,10 +1,12 @@
 # Links
 
-## Links to some great Playbooks & Tools
+## Links to some great Playbooks, Tools & Articles 
 
 {% embed url="https://doist.com/blog/remote-career-advice/" caption="" %}
 
 {% embed url="https://www.pagerduty.com/blog/what-is-chatops/" caption="" %}
+
+{% embed url="https://www.linkedin.com/pulse/companies-who-adopt-remote-work-replace-every-company-chris-herd/?trackingId=m6kzezjLELhXSfAHl6klsg%3D%3D" %}
 
 {% embed url="https://www.martinfowler.com/articles/remote-or-co-located.html" %}
 

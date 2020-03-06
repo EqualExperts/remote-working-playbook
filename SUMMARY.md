@@ -1,6 +1,6 @@
 # Table of contents
 
-* [R-ee-mote](README.md)
+* [Remote](README.md)
 * [Introduction](introduction/README.md)
   * [Context](introduction/context.md)
   * [Interactions](introduction/interactions.md)
