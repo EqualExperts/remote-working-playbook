@@ -9,7 +9,7 @@
   * [Agile Law](introduction/colocation-is-better.md)
 * [Advantages](advantages.md)
 * [Team Charter](ground-rules/README.md)
-  * [Working day Etiquette.](ground-rules/working-day-etiquette..md)
+  * [Working day Etiquette](ground-rules/working-day-etiquette..md)
   * [Office Hours](ground-rules/office-hours.md)
   * [Video Calls](ground-rules/video-calls.md)
   * [Instant Messaging](ground-rules/slack.md)
