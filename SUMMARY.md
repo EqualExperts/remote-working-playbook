@@ -16,6 +16,7 @@
   * [Remote Documentation](ground-rules/remote-documentation.md)
 * [Team Ceremonies](team-ceremonies.md)
 * [Remote Pairing](remote-pairing.md)
+* [Remote Workshops](remote-workshops.md)
 * [Tools](tools.md)
 * [Multiple Hubs](multiple-hubs.md)
 * [Links](links-to-some-great-playbooks-and-tools.md)
