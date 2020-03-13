@@ -6,6 +6,8 @@
 
 {% embed url="https://www.pagerduty.com/blog/what-is-chatops/" caption="" %}
 
+{% embed url="https://www.superevilmegacorp.com/blog/2020/3/4/sharing-our-remote-first-processes-tools-and-guidelines-for-fellow-corona-dodgers" %}
+
 {% embed url="https://www.linkedin.com/pulse/companies-who-adopt-remote-work-replace-every-company-chris-herd/?trackingId=m6kzezjLELhXSfAHl6klsg%3D%3D" %}
 
 {% embed url="https://www.martinfowler.com/articles/remote-or-co-located.html" %}
