@@ -4,7 +4,7 @@
 
 Technology won’t solve every problem, but getting some basics right can help. If you are joining a \(video\) call, get yourself set up correctly.
 
-![](.gitbook/assets/image%20%287%29.png)
+![](.gitbook/assets/image%20%288%29.png)
 
 ### Camera
 

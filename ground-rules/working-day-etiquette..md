@@ -2,7 +2,7 @@
 
 Ease the communication between your team by helping your team understand where you are.
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 * **Out of the office?** Keep a shared team calendar and ensure you update it, so your team knows when you are not working and for how long. It’s easy to maintain and provides a level of transparency about availability.
 * **In the zone** - Sometimes, you need to get your head down and code, or sometimes, you need to disappear for a bit. Make sure you let people know you are unavailable by setting your Slack status \(or similar\) with the reason and expiry time. Usually, people are happy to wait if they have some context.
