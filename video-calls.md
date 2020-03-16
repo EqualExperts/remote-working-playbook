@@ -4,7 +4,7 @@
 
 We strongly favour [Zoom](https://zoom.us) for video calls. We’ve tried several alternatives, and this seems to be best for handling short dropouts and accommodating people with poor bandwidth.
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image%20%283%29.png)
 
 
 
