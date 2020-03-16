@@ -12,5 +12,5 @@ Ease the communication between your team by helping your team understand where y
 * **Clock-in, clock-out** - Make your teammates aware when you have started work, and finished for the day.  A simple “Hi, I’m around” and “Signing off for the day”in Slack is all you need.
 * **Seek & Give feedback** - Seek and give feedback. You have to take a more active role in seeking and giving feedback. Do not wait for the next retro to address concerns.
 
-_**Remember Hanlon’s Razor - People do not have the same level of empathy when the relationship isn’t close or where the conversation is behind a video screen so take extra care when making assumptions about your co-workers.**_
+**Remember** - It can be hard for people to develop the same level of empathy when the relationship isn’t face to face. When the conversation is via a video screen avoid making assumptions about your co-workers intentions.
 
