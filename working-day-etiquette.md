@@ -1,4 +1,4 @@
-# Working day Etiquette
+# Working Day Etiquette
 
 Ease the communication between your team by helping your team understand where you are.
 

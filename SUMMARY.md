@@ -12,7 +12,7 @@
 * [Video Calls](video-calls.md)
 * [Instant Messaging](slack.md)
 * [Remote Documentation](remote-documentation.md)
-* [Working day Etiquette](working-day-etiquette.md)
+* [Working Day Etiquette](working-day-etiquette.md)
 * [Office Hours](office-hours.md)
 * [Team Ceremonies](team-ceremonies.md)
 * [Remote Workshops](remote-workshops.md)
