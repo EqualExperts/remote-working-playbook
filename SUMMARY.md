@@ -19,7 +19,7 @@
 * [Remote Pairing](remote-pairing.md)
 * [Tools](tools.md)
 * [Multiple Hubs](multiple-hubs.md)
-* [Request a consultation](request-a-consultation.md)
+* [Request a Consultation](request-a-consultation.md)
 * [Links](links-to-some-great-playbooks-and-tools.md)
 * [Contributions](contributions.md)
 * [Licence](licence.md)
