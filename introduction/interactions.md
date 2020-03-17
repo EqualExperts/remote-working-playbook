@@ -22,7 +22,7 @@ People must have confidence that private conversations are only heard by those i
 
 #### Legitimacy
 
-The social definition of the space: What is supposed, obliged and allowed to occur there. People have got to feel comfortable that it is okay for them to be in a certain place, that is, not feel embarrassed or discredited about staying in a particular period of time. For an encounter to become an informal interaction, the people involved must not only feel comfortable about what others will see and hear — the issue of privacy — but also what others will think.
+The social definition of the space: What is supposed, obliged and allowed to occur there. People have got to feel comfortable that it is okay for them to be in a certain place, that is, not feel embarrassed or discredited. For an encounter to become an informal interaction, the people involved must not only feel comfortable about what others will see and hear — the issue of privacy — but also what others will think.
 
 **Impact on Remote Working:** In a remote environment, having different channels for people to talk about topics ranging from specific technical subjects to a place just for some watercooler chat helps promote legitimacy between co-workers. Remember that shy people in a remote setting will be doubly shy, so ensure that the team environment invites active communications across all team members.
 
