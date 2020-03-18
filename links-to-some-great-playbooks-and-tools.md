@@ -28,6 +28,8 @@
 
 {% embed url="https://www.equalexperts.com/blog/our-thinking/optimising-slack/" caption="" %}
 
+![](http://cdn2.hubspot.net/hubfs/3071166/The%20Definitive%20Guide%20To%20Facilitating%20Remote%20Workshops%20%28V1.1%29.pdf?utm_campaign=Ebook&utm_source=ebook&utm_medium=button&utm_content=muralco)
+
 ![](https://services.google.com/fh/files/blogs/distributedworkplaybooks.pdf)
 
 {% embed url="https://www.amazon.co.uk/Remote-Required-David-Heinemeier-Hansson-ebook/dp/B00CZ7OC46/" caption="" %}

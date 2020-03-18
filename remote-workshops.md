@@ -33,6 +33,18 @@ Setting this up will make it easier for participants to understand the context a
 
 ![A simplified view of a workshop board](https://lh4.googleusercontent.com/LlhzIxxEdRiwC1NskjNknZ8hXH4Q7h9h7tn0URcIps629fUlKx6ny5uxlZxAVGI_alv9KxfjToKc4mcPewCfX3kSpD9ZFODGXRPmTpg6g_WS-RR_Gm2Fw1pMBJUtlZhPi6bDeVip)
 
+### **Setup & Test Video Conferencing**
+
+The most important virtual space you will use is that found in the Video conference.  Before the session ensure:
+
+* all participants test their audio prior to joining the session
+* all participants join the remote working tool with their full name
+* all participants have an actual thumbnail image against their profiles \(not some random emoji or picture from high school\)
+
+Test out Zoom's breakout room feature \(enabled by the host account\), this allows the host to create ‘side’ rooms during the workshop which may be useful if you want to hold some breakout sessions.
+
+{% embed url="https://support.zoom.us/hc/en-us/articles/206476093-Getting-Started-with-Breakout-Rooms" %}
+
 ### Split the sessions
 
 It is often much harder to stay focused and process what’s happening in remote workshops than in person.  
@@ -46,7 +58,8 @@ Another activity which is harder to do remotely is to have breakout sessions; ho
 ### Before the workshop
 
 * Prepare the board and create the visual narrative of the overall workshop.  Then provide access to the participants! 
-* Get everyone to test their access to the virtual tools before the meeting starts, e.g., the virtual board \(above\), video conference tool and task management tool \(if you are using one\).  We often get teams to join the call five minutes early to make sure we can start on time.  
+* Get everyone to test their access to the virtual tools before the meeting starts, e.g., the virtual board \(above\), video conference tool and task management tool \(if you are using one\).  We often get teams to join the call five minutes early to make sure we can start on time.
+* Send clear join-in details before the meeting outlining the above.  
 
 ## During the workshop
 

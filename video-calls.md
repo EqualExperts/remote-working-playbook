@@ -28,3 +28,14 @@ _Crappy sound and video is a killer_
 * **Human Interactions.** Leave some space for some social interaction at the start of meetings. Dial into meetings 5 minutes early and see what essential information surfaces just through normal human chit-chat.
 * **Record the meeting.** Record the Zoom for those not able to attend due to time zones. If you are using a whiteboard, go electronic, so everyone watching the video has the full context.
 
+## Pro-tip
+
+{% hint style="info" %}
+You can **integrate Google Calendar with Zoom** and then **join meetings directly from the Zoom app with 1 click**, without having to fetch links from Calendar events and whatnot:  
+1. Sign in with Google into [**https://zoom.us/profile**](https://zoom.us/profile)  
+2. At the bottom click **Calendar and Contact Integration** and go through the authorisation steps  
+3. **Open the** [**zoom.us**](http://zoom.us/) **app** and see you daily meetings in the **Home or Meetings tab**
+{% endhint %}
+
+
+
