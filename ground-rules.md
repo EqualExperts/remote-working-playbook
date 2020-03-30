@@ -16,3 +16,13 @@ Area that we suggest you consider for your team charter include:
 
 The information below will help **shape the extra, remote working items** that should be considered for your charter.
 
+[Click here to jump to the google doc](https://docs.google.com/document/d/1Mes31wb_kB9bnBnkKPDDzBMPDj5ibVbxOWZCOrE4Ia8/edit?usp=sharing).
+
+{% embed url="https://docs.google.com/document/d/1Mes31wb\_kB9bnBnkKPDDzBMPDj5ibVbxOWZCOrE4Ia8/edit?usp=sharing" %}
+
+
+
+
+
+
+
