@@ -12,6 +12,7 @@ In general, remote pairing is no different from collocated pairing except for th
 * Try to minimise the amount of environmental noise around you. Where possible, work in a quiet room.
 * Don’t forget there are whiteboard facilities on Zoom. This can be useful in explaining ideas.
 * When using remote screen control, latency is important!
+* Use a keystroke visualiser! Especially when you're demonstrating complicated keyboard shortcuts. Just be careful not to expose any sensitive data such as user password from login form, etc.
 
 Remember, you have to actively fight against the people isolating themselves, especially when people first start to work remotely. Make yourself present; be overactive in communications like Slack and Zoom. If you are overactive, people are more likely to pair with you! 
 
