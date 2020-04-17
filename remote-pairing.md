@@ -17,7 +17,8 @@ In general, remote pairing is no different from collocated pairing except for th
   built-in keyboard viewer solutions out of the box. However, in our experience, specialised tools like, for example,
   KeyCastr work better in a remote pairing environment as they provide a more focused view by displaying only one single
   keystroke at a time.
-    * [KeyCastr](https://github.com/keycastr/keycastr)
-    * [macOS Keyboard Viewer](https://support.apple.com/en-gb/guide/mac-help/mchlp1015/mac)
+    * [KeyCastr](https://github.com/keycastr/keycastr) for macOS
+    * [Carnac](https://github.com/Code52/carnac) for Windows
+    * Built-in [Keyboard Viewer](https://support.apple.com/en-gb/guide/mac-help/mchlp1015/mac) for macOS
 
 Remember, you have to actively fight against the people isolating themselves, especially when people first start to work remotely. Make yourself present; be overactive in communications like Slack and Zoom. If you are overactive, people are more likely to pair with you!     
