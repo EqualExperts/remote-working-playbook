@@ -2,7 +2,7 @@
 
 Be respectful of different time zones and try to schedule calls that are inside of everyone’s working hours when possible. Use tools like [https://everytimezone.com/](https://everytimezone.com/) to find a convenient time for everyone, and enable Secondary Time Zone in Google Calendar settings to see other regions’ times from within your calendar.
 
-![](.gitbook/assets/globe_01.png)
+![](.gitbook/assets/globe-01.png)
 
 **‌**Publicise what the team's collectively overlapping core hours are. Don't forget about daylight saving different public holidays and working weeks.  
 

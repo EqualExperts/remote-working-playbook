@@ -2,7 +2,7 @@
 
 In general, remote pairing is no different from collocated pairing except for the obvious video link. These days, there is no need to use anything other than a high-quality video, sound and screen-sharing, and a remote screen control tool such as Zoom.
 
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/female-engineer.png)
 
 ## Pro tips:
 

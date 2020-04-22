@@ -4,7 +4,7 @@
 
 Where running multiple hubs in different locations for the same project or product, to make the delivery more effective, consider setting up the organisation like so:
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/team-distribution-04.png)
 
 **Multiple Hubs**
 

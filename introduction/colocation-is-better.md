@@ -10,7 +10,7 @@ There is an assumption that colocation is better. After all, in Kent Becks - Ext
 
 There is surprisingly little scientific evidence on the effectiveness of co-location, which seems to be more assumptions than hard scientific facts. There are a few quality articles. The majority of the literature is based on case studies and anecdotes and shows little in the way of quality evidence. The rise of the new wave of tools, such as Slack and Zoom and more focused working practices aimed at working remote, are not featured in these studies.
 
-![](../.gitbook/assets/gavel_01.png)
+![](../.gitbook/assets/gavel-01.png)
 
 ### But don’t worry, it isn't anti-agile
 
