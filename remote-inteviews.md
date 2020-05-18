@@ -2,7 +2,7 @@
 description: Running remote interviews
 ---
 
-# Remote Inteviews
+# Remote Interviews
 
 In this section, we’ll be sharing the challenges we find, and approaches we take when running remote interviews.
 
