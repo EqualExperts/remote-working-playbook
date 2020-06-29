@@ -6,11 +6,9 @@ We strongly favour [Zoom](https://zoom.us) for video calls. We’ve tried severa
 
 ![](.gitbook/assets/zoom.png)
 
-
-
 ### Remote call etiquette
 
-{% embed url="https://www.youtube.com/watch?v=JMOOG7rWTPg" %}
+{% embed url="https://www.youtube.com/watch?v=JMOOG7rWTPg" caption="" %}
 
 _Crappy sound and video is a killer_
 
@@ -36,6 +34,4 @@ You can **integrate Google Calendar with Zoom** and then **join meetings directl
 2. At the bottom click **Calendar and Contact Integration** and go through the authorisation steps  
 3. **Open the** [**zoom.us**](http://zoom.us/) **app** and see you daily meetings in the **Home or Meetings tab**
 {% endhint %}
-
-
 

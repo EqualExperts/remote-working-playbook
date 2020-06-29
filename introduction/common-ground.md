@@ -1,6 +1,6 @@
 # Common Ground
 
-### Common Ground & Grounding
+## Common Ground & Grounding
 
 ![](../.gitbook/assets/common-ground.png)
 

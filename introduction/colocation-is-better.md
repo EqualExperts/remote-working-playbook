@@ -4,7 +4,7 @@
 
 Colocation is always better than remote working; it states it in the agile bible somewhere so it must be true.
 
-There is an assumption that colocation is better. After all, in Kent Becks - Extreme Programming Explained the very first Primary Practice he lists is Sit Together. 
+There is an assumption that colocation is better. After all, in Kent Becks - Extreme Programming Explained the very first Primary Practice he lists is Sit Together.
 
 > _**Develop in an open space big enough for the whole team**._
 
@@ -16,9 +16,9 @@ There is surprisingly little scientific evidence on the effectiveness of co-loca
 
 As Beck continues in his book he states:
 
-> _**Does the practice of sitting together mean that multisite teams can't do XP?  The simple answer is no; teams can be distributed and do XP. Practices are theories, predictions. "Sit Together" predicts that the more face time you have, the more humane and productive the project. If you have a multisite project and everything is going well, keep doing what you're doing. If you have problems, think about ways to sit together more, even if it means travelling."**_
+> _**Does the practice of sitting together mean that multisite teams can't do XP? The simple answer is no; teams can be distributed and do XP. Practices are theories, predictions. "Sit Together" predicts that the more face time you have, the more humane and productive the project. If you have a multisite project and everything is going well, keep doing what you're doing. If you have problems, think about ways to sit together more, even if it means travelling."**_
 
-So the "agile law" isn't so strict. Beck calls out a key reason why sitting together is important; 
+So the "agile law" isn't so strict. Beck calls out a key reason why sitting together is important;
 
 > _**the more face time you have, the more humane and productive the project**_
 

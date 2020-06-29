@@ -14,7 +14,7 @@ Where running multiple hubs in different locations for the same project or produ
 
 ### **Getting some \(real\) face-time**
 
-While video conferencing has improved substantially, it still doesn’t build team bonds like meeting face to face. When teams are distributed,  arrange to meet up from time to time.
+While video conferencing has improved substantially, it still doesn’t build team bonds like meeting face to face. When teams are distributed, arrange to meet up from time to time.
 
 * **Kick-off new work together** - For new work coming into the team, run inceptions that are co-located, cross-functional and made up of members from across different locations.  Use this opportunity to retrospect as a team together.
 * **Plan the location** - make use of the location by trying to meet where your customer is \(or where their customers are\) so that you can get a first-hand opportunity to meet and receive feedback. 
@@ -22,8 +22,7 @@ While video conferencing has improved substantially, it still doesn’t build te
 
 ### **Multiple & Extreme Timezones**
 
-When scaling your delivery teams around the world, think carefully about where team members are located so you can optimise your delivery. Consider how time zones can work in your favour to deliver end to end features within minimal disruption and impact on your customer.   
-
+When scaling your delivery teams around the world, think carefully about where team members are located so you can optimise your delivery. Consider how time zones can work in your favour to deliver end to end features within minimal disruption and impact on your customer.
 
 * **Reduce the impact on the Customer -** Have a Delivery Lead, an Analyst and Tech Lead as close to the customer as possible. You want to reduce the impact on your customer of the distributed team as much as possible.
 * **Cross-functional teams per Timezone** - You need cross-functional capability that can deliver its features/components to production independently of other Timezones.

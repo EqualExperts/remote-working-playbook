@@ -2,8 +2,6 @@
 
 ## Advantages of Remote working
 
-
-
 If you use the right tools, practices and mindset, there are many advantages in remote working. Some of the benefits that our people have seen are as follows:
 
 * Remote working is more productive as the focus is more intense. This can also hold true for pairing. 

@@ -18,11 +18,5 @@ The information below will help **shape the extra, remote working items** that s
 
 [Click here to jump to the google doc](https://docs.google.com/document/d/1Mes31wb_kB9bnBnkKPDDzBMPDj5ibVbxOWZCOrE4Ia8/edit?usp=sharing).
 
-{% embed url="https://docs.google.com/document/d/1Mes31wb\_kB9bnBnkKPDDzBMPDj5ibVbxOWZCOrE4Ia8/edit?usp=sharing" %}
-
-
-
-
-
-
+{% embed url="https://docs.google.com/document/d/1Mes31wb\_kB9bnBnkKPDDzBMPDj5ibVbxOWZCOrE4Ia8/edit?usp=sharing" caption="" %}
 
