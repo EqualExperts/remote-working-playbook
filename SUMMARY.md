@@ -16,7 +16,7 @@
 * [Office Hours](office-hours.md)
 * [Team Ceremonies](team-ceremonies.md)
 * [Remote Workshops](remote-workshops.md)
-* [Remote Inteviews](remote-inteviews.md)
+* [Remote Interviews](remote-interviews.md)
 * [Remote Wash-up](remote-wash-up.md)
 * [Remote Pairing](remote-pairing.md)
 * [Tools](tools.md)
