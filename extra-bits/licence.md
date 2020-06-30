@@ -6,7 +6,7 @@ description: We love to share
 
 
 
-![Attribution-NonCommercial-ShareAlike 3.0 Unported \(CC BY-NC-SA 3.0\)](.gitbook/assets/1200px-cc-by-nc-sa.svg.png)
+![Attribution-NonCommercial-ShareAlike 3.0 Unported \(CC BY-NC-SA 3.0\)](../.gitbook/assets/1200px-cc-by-nc-sa.svg.png)
 
 This is a human-readable summary of \(and not a substitute for\) the [license](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode). [Disclaimer](https://creativecommons.org/licenses/by-nc-sa/3.0/#).
 

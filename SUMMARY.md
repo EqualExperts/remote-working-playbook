@@ -18,15 +18,18 @@
 * [Remote Pairing](remote-pairing.md)
 * [Tools](tools.md)
 * [Multiple Hubs](multiple-hubs.md)
-* [Links](links-to-some-great-playbooks-and-tools.md)
-* [Contributions](contributions.md)
-* [Licence](licence.md)
-* [Our Playbooks](https://www.playbook.ee)
-* [Equal Experts](https://www.equalexperts.com)
 
 ## Remote Working Runbooks
 
 * [Remote Workshops](remote-working-runbooks/remote-workshops.md)
 * [Remote Wash-up](remote-working-runbooks/remote-wash-up.md)
 * [Remote Interviews](remote-working-runbooks/remote-interviews.md)
+
+## Extra-bits
+
+* [Contributions](extra-bits/contributions.md)
+* [Licence](extra-bits/licence.md)
+* [Links](extra-bits/links-to-some-great-playbooks-and-tools.md)
+* [Our Playbooks](https://www.playbook.ee)
+* [Equal Experts](https://www.equalexperts.com)
 
