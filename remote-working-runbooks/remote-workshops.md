@@ -8,7 +8,7 @@ This is critical because collocated teams think with their environment \(this is
 
 As a consequence of these factors, we need to adjust activities and amplify how and what we communicate in remote workshops.
 
-![](.gitbook/assets/post-its-01.png)
+![](../.gitbook/assets/post-its-01.png)
 
 ## The facilitator
 
