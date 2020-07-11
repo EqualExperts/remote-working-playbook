@@ -24,6 +24,8 @@ Like any written content avoid ambiguity at all costs. What someone else reads a
 
 ## **Slack Principles**
 
+{% embed url="https://t.co/SvV4kohrVm" %}
+
 The following principles were used when writing Equal Experts [slack usage guide](https://github.com/EqualExperts/slack-guide/blob/master/README.md):
 
 * **Give everyone the bigger picture** by making information and conversations public
