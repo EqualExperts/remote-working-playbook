@@ -24,6 +24,7 @@
 * [Remote Workshops](remote-working-runbooks/remote-workshops.md)
 * [Remote Wash-up](remote-working-runbooks/remote-wash-up.md)
 * [Remote Interviews](remote-working-runbooks/remote-interviews.md)
+* [Remote-Wellness](remote-working-runbooks/remote-wellness.md)
 
 ## Extra-bits
 
