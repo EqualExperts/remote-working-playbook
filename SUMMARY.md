@@ -17,6 +17,7 @@
 * [Team Ceremonies](team-ceremonies.md)
 * [Remote Pairing](remote-pairing.md)
 * [Tools](tools.md)
+* [Home Office](home-office.md)
 * [Multiple Hubs](multiple-hubs.md)
 
 ## Remote Working Runbooks
