@@ -58,7 +58,7 @@ The important thing is not the tools you use but how you use them. And it’s fu
 
 Basically you need two tools, one for the **video call** and another as a **virtual whiteboard**. Here are our main go to and some suggestions, you can use others if you want to as there are always new tools coming into the market.
 
-See [Tools](../tools.md) for further details.
+See [Tools](../tools-of-the-trade.md) for further details.
 
 ## Steps
 

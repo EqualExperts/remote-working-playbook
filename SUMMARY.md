@@ -16,7 +16,7 @@
 * [Office Hours](office-hours.md)
 * [Team Ceremonies](team-ceremonies.md)
 * [Remote Pairing](remote-pairing.md)
-* [Tools](tools.md)
+* [Tools of the trade](tools-of-the-trade.md)
 * [Home Office](home-office.md)
 * [Multiple Hubs](multiple-hubs.md)
 
