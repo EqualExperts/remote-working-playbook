@@ -1,8 +1,8 @@
-# Untitled
+---
+description: bringing back the feeling of being co-located but in a remote way
+---
 
-## \(Virtual\) Team Meeting Rooms
-
- 2 mins  1  92 [Edit](https://equalexperts.blogin.co/post/117523) [11](https://equalexperts.blogin.co/posts/virtual-team-meeting-rooms-117523#vote-up) [0](https://equalexperts.blogin.co/posts/virtual-team-meeting-rooms-117523#vote-down) [Following](https://equalexperts.blogin.co/posts/virtual-team-meeting-rooms-117523#follow)
+# Virtual Team Meeting Rooms
 
 Signally availability of your team members is important in a remote-first world.  You can’t just look over at someone's desk and see if they are there or if they are in deep work with a “DO NOT DISTURB” face.  Using the status on Slack can solve part of the problem, but that only really saying when you are not available, “In a meeting” or “Out sick”, but it doesn’t work as well for "I want to pair" or even "fancy a coffee". 
 
