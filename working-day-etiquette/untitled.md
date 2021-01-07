@@ -22,7 +22,7 @@ TLDR: create a dedicated slack channel, put in some "enduring" zoom links, when 
 * Rooms are available on a first-come-first-serve basis
 * Try “Hey are you free, I’m in clientx meeting room\#1 with Sarah to chat about this, can you join now”?  
 
-![](https://lh6.googleusercontent.com/vzDoH94vyTa58RO8eGBY7-CKQ-CSoHyL68QdPyl9xsltQ7XiyR8rxW9JBoQkqdC14K4QoUmpVK-dKz1kUiNRurH01sJG5yLc-ISBpFevM1puKpjPyQeRksv61kq16bfeMTS7q4Wj)
+![](../.gitbook/assets/screenshot-2021-01-07-at-13.28.27.png)
 
 This has been tried and tested with the CondéNast project with significant success, where it has helped to bring back some of the feeling of being co-located but in a remote way. 
 
