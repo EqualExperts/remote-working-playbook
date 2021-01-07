@@ -10,7 +10,7 @@ If you use the right tools, practices and mindset, there are many advantages in 
 * Often, home connectivity, upload speeds, download speeds and latency is better than in the office.
 * The removal of location barriers allows for the selection of talent from a much larger pool.
 
-![](.gitbook/assets/scales-01.png)
+![](.gitbook/assets/scales_01%20%282%29%20%283%29.png)
 
 ## Disadvantages of Remote working
 

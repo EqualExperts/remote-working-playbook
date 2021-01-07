@@ -12,7 +12,7 @@ Teams that work remotely love using a real-time collaboration tool like Slack. �
 
 ## The Water Cooler
 
-![The modern day watercooler ](.gitbook/assets/mug-01.png)
+![The modern day watercooler ](.gitbook/assets/mug_01.png)
 
 Perhaps one of Slack’s most useful functions is its ability to be an online version of the watercooler — where random work discussions happen mixed in with a bit of banter and a healthy dose of /giphy to express how you really feel.
 

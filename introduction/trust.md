@@ -6,5 +6,5 @@ Trust is a multiplier! Teams need to collaborate to deliver a goal, and if basic
 
 **Impact on Remote Working:** Open, prompt and continued interactions allow you to gather evidence about other members’ credibility and trustworthiness. Take the extra effort and time to talk via video and keep constant communication via Slack. If you’ve gone through the whole day and have only spoken to your cat, then maybe you need to communicate with your team a bit more.
 
-![](../.gitbook/assets/equal-experts-logo.png)
+![](../.gitbook/assets/equal-experts-logo%20%281%29.png)
 

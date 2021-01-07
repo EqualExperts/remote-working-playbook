@@ -4,7 +4,7 @@
 
 Encounters lead to interactions, which allow communications. How do we increase the frequency of encounters? What factors turn encounters into interactions? How do we convert interactions into communications?
 
-![](../.gitbook/assets/knowledge-sharing-01.png)
+![](../.gitbook/assets/knowledge-sharing-01%20%281%29.png)
 
 ### Proximity
 
